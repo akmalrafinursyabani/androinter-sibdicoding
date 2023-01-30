@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Arafin Dicoding Story App</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="sign_in_label">Login</string>
+    <string name="register_label">Belum punya akun? Yuk daftar dulu!</string>
+    <string name="email_placeholder">email@email.com</string>
+    <string name="logo_dicoding_stories">Logo Dicoding Stories</string>
+    <string name="login_title">Login</string>
+    <string name="register_title">Register</string>
+    <string name="name_label">Nama Lengkap</string>
+    <string name="register_button">Register</string>
+    <string name="login_label">Saya sudah mempunyai akun</string>
+    <string name="take_photo">Ambil Foto</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="story_photo">Foto untuk story</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="date_upload_label">Diupload pada tanggal:</string>
+    <string name="name_upload_label">Diupload oleh:</string>
+    <string name="desc_upload_label">Deskripsi</string>
+    <string name="insert_desc_edittext">Masukkan deskripsi dari story Anda…</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_stories_location">Lokasi Upload Story</string>
+    <string name="open_story_maps">Buka Maps Story</string>
+    <string name="location_toggle">Gunakan lokasi terkini?</string>
+
+    <!-- Error Label -->
+    <string name="invalid_email">Pastikan email Anda valid. Contoh: myemail@dicoding.com</string>
+    <string name="invalid_password">Password tidak boleh kurang dari 6 huruf!</string>
+    <string name="location_not_found">"Lokasi tidak ditemukan"</string>
+</resources>
